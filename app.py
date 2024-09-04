@@ -5,7 +5,7 @@ import discord
 from discord.ext import commands
 #variables
 client = commands.Bot(command_prefix = "ü")
-echoANS = ['Zamknij morde działam przecież', 'AHA.', '?', 'Zabij się','Spierdalaj','who?','starego ci w 5']
+echoANS = ['Zamknij morde działam przecież', 'AHA.', '?', 'Zabij się','who?']
 
 
 @client.event
