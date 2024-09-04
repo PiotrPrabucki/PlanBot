@@ -16,4 +16,4 @@ async def on_ready():
 async def ping(ctx):
     await ctx.send(echoANS[random.randrange(0,len(echoANS))])
 
-client.run('ODI3MTg2OTAxNzE4MjY5OTgy.YGXX1Q.ppZ0-U5NUF6_IJwX1377W7JspWs')
+client.run('-----TOKEN------')
